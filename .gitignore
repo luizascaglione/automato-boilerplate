@@ -1,0 +1,8 @@
+.DS_Store
+.Spotlight-V100
+*.dll
+*.dmg
+*.log
+
+node_modules
+bower_components
