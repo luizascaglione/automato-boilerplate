@@ -1,0 +1,22 @@
+{
+  "name": "automato",
+  "description": "A simple front-end boilerplate.",
+  "main": "index.html",
+  "authors": [
+    "Luiza Scaglione <luiza.scaglione@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "less-mixins": "^0.2.0"
+  }
+}
